@@ -1,5 +1,8 @@
 # ETL_pipeline_json_to_csv_parquet
 
+* [Logs com loguru]()
+* [Decoradores]()
+
 ## Descrição
 
 Este projeto tem como objetivo criar um pipeline ETL (Extract, Transform, Load) que lê arquivos JSON, realiza um cálculo de total e carrega os dados transformados em arquivos CSV ou Parquet, ou em ambos os formatos. O pipeline foi projetado para ser facilmente adaptável e escalável para diferentes fontes de dados e formatos de saída.
