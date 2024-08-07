@@ -7,8 +7,8 @@ Este documento fornece uma introdução sobre como usar decoradores em Python. D
 Decoradores em Python são funções que recebem outra função como argumento e retornam uma nova função modificada. Eles são comumente usados para adicionar funcionalidades extras a funções existentes sem modificar seu código diretamente.
 
 * Exemplos práticos de decorators  
-    * [Tenacity Decorator]()
-    * [Singleton Decorator]()
+    * [Tenacity Decorator](https://github.com/Jownao/bootcamps_study/blob/main/01_bootcamp_python/009aula/decorator_tenacity.py)
+    * [Singleton Decorator](https://github.com/Jownao/bootcamps_study/blob/main/01_bootcamp_python/009aula/decorator_singleton.py)
 
 ## Exemplo Básico de Decorador
 
