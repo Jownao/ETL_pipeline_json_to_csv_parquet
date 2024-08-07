@@ -7,6 +7,13 @@
 
 Este projeto tem como objetivo criar um pipeline ETL (Extract, Transform, Load) que lê arquivos JSON, realiza um cálculo de total e carrega os dados transformados em arquivos CSV ou Parquet, ou em ambos os formatos. O pipeline foi projetado para ser facilmente adaptável e escalável para diferentes fontes de dados e formatos de saída.
 
+## Melhorias
+
+As melhorias que pretendo aplicar nesse projeto são:
+* Aplicar decoradores como pydantic, pandera, log
+* Salvar os dados na nuvem
+* Montar uma aplicação com streamlit
+
 ## Estrutura do Projeto
 
 ```
