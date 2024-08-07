@@ -9,7 +9,7 @@ Este projeto tem como objetivo criar um pipeline ETL (Extract, Transform, Load) 
 
 ## Melhorias
 
-As melhorias que pretendo aplicar nesse projeto são:
+As melhorias que pretendo aplicar nesse projeto são:  
 * Aplicar decoradores como pydantic, pandera, log
 * Salvar os dados na nuvem
 * Montar uma aplicação com streamlit
